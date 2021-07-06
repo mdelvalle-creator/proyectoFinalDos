@@ -1,0 +1,22 @@
+.jumbotron {
+  flex-direction: column;
+  align-items: center;
+}
+.contenedorCentral {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.logoImagen {
+  height: 90px;
+}
+.resultado {
+  margin-top: 30px;
+   font-family: sans-serif;
+  font-size: medium;
+}
+
+.formularioEstilo{
+  display: flex;
+  flex-direction: column;
+}
